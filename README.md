@@ -12,8 +12,7 @@ $ gem install lolcat
 $ pkg install sh
 $ pkg install php
 $ pkg install git
-$ git clone 
-https://github.com/ancurtotal/Ancurtotal-Hacking-Facebook
+$ git clone https://github.com/ancurtotal/Ancurtotal-Hacking-Facebook
 
 ```MENJALANKANNYA```
 
