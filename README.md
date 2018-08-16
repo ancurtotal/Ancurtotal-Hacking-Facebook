@@ -18,10 +18,10 @@ https://github.com/ancurtotal/Ancurtotal-Hacking-Facebook
 ```MENJALANKANNYA```
 
 $ cd Ancurtotal-Hacking-Facebook
-$ chmod +x Ancurtotal-Hacking-Facebook.sh
-$ sh Ancurtotal-Hacking-Facebook.sh
+$ chmod +x Ancurtotal-Facebook
+$ ./Ancurtotal-Facebook
 
-username : AncurtotalHackingFacebook
+username : AncurtotalFacebook
 password : SODC
 
 EKAY ANCURTOTAL
