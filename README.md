@@ -18,10 +18,10 @@ $ git clone https://github.com/ancurtotal/Ancurtotal-Hacking-Facebook
 
 $ cd Ancurtotal-Hacking-Facebook
 $ chmod +x Ancurtotal-Facebook
-$ ./Ancurtotal-Facebook
+$ Ancurtotal-Facebook
 
 username : AncurtotalFacebook
-password : SODC
+password : EKAY
 
-EKAY ANCURTOTAL
-SCARY OF DEMON CYBER
+ EKAY ANCURTOTAL
+ANCURTOTAL CYBER TEAM
